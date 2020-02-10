@@ -1,0 +1,102 @@
+Rhyme finder test
+Loading dictionary...-done!  Word count: 133779
+
+Enter a word to rhyme against (enter to quit): action
+Search for exact rhymes only? [y/n, default = y]: y
+4 rhymes found.
+ACTION, FACTION, FRACTION, TRACTION,
+
+Enter a word to rhyme against (enter to quit): action
+Search for exact rhymes only? [y/n, default = y]: n
+23 rhymes found.
+ABSTRACTION, ACTION, ATTRACTION, CLASSACTION, CONTRACTION, DIFFRACTION, DISSATISFACTION, DISTRACTION, EXACTION, EXTRACTION, FACTION, FRACTION, INACTION, INFRACTION, INTERACTION, LIQUEFACTION, REACTION, RETRACTION, SATISFACTION, SUBTRACTION, TELACTION, TRACTION, TRANSACTION,
+
+Enter a word to rhyme against (enter to quit): bubble
+Search for exact rhymes only? [y/n, default = y]: y
+7 rhymes found.
+BUBBLE, DOUBLE, HUBBELL, HUBBLE, RUBBLE, STUBBLE, TROUBLE,
+
+Enter a word to rhyme against (enter to quit): bubble
+Search for exact rhymes only? [y/n, default = y]: n
+8 rhymes found.
+BUBBLE, DOUBLE, HUBBELL, HUBBLE, REDOUBLE, RUBBLE, STUBBLE, TROUBLE,
+
+Enter a word to rhyme against (enter to quit): end
+Search for exact rhymes only? [y/n, default = y]: y
+17 rhymes found.
+BEND, BLEND, END, ENDE, FEND, FRIEND, LEND, MEND, MENDE, PENNED, RENDE, SEND, SPEND, TEND, TREND, WEND, WENDE,
+
+Enter a word to rhyme against (enter to quit): end
+Search for exact rhymes only? [y/n, default = y]: n
+54 rhymes found.
+ABEND, AMEND, APPEND, APPREHEND, AREND, ASCEND, ATTEND, BACKEND, BEFRIEND, BEND, BLEND, COMMEND, COMPREHEND, CONDESCEND, CONTEND, DEAD-END, DEFEND, DEPEND, DESCEND, DISTEND, ECHEMENDE, END, ENDE, EXPEND, EXTEND, FEND, FRIEND, HIGH-END, IMPEND, INTEND, LANDSEND, LEND, MEND, MENDE, MISSPEND, OFFEND, OVEREXTEND, PENNED, PORTEND, PRETEND, RECOMMEND, RELEND, RENDE, REOFFEND, SEND, SPEND, SUSPEND, TEND, TRANSCEND, TREND, UNBEND, WEND, WENDE, YEAREND,
+
+Enter a word to rhyme against (enter to quit): ended
+Search for exact rhymes only? [y/n, default = y]: y
+8 rhymes found.
+BENDED, BLENDED, ENDED, FENDED, MENDED, SPLENDID, TENDED, TRENDED,
+
+Enter a word to rhyme against (enter to quit): ended
+Search for exact rhymes only? [y/n, default = y]: n
+34 rhymes found.
+AMENDED, APPENDED, APPREHENDED, ASCENDED, ATTENDED, BEFRIENDED, BENDED, BLENDED, COMMENDED, COMPREHENDED, CONTENDED, DEFENDED, DEPENDED, DESCENDED, DISTENDED, ENDED, EXPENDED, EXTENDED, FENDED, INTENDED, MENDED, OFFENDED, OVEREXTENDED, PRETENDED, RECOMMENDED, REOFFENDED, SPLENDID, SUSPENDED, TENDED, TRANSCENDED, TRENDED, UNAMENDED, UNATTENDED, UNINTENDED,
+
+Enter a word to rhyme against (enter to quit): feet
+Search for exact rhymes only? [y/n, default = y]: y
+59 rhymes found.
+BEAT, BEET, BREIT, CHEAT, CLEAT, CLIETT, CRETE, DEET, EAT, FEAT, FEET, FLEET, FREET, GREET, GRETE, HEAT, KEITT, KRIETE, LEET, LEETE, LEITE, MEAT, MEET, METE, NEAT, NEET, PEAT, PEET, PEETE, PETE, PIET, PIETTE, PLEAT, PRETE, QUIETT, SEAT, SHEET, SKEAT, SKEET, SKEETE, SLEET, ST., STREET, STREETT, SUITE, SWEATT, SWEET, SWETE, TEAT, TEET, THREATT, THREET, THWEATT, TREAT, TVEIT, TWEET, VEIT, VLIET, WHEAT,
+
+Enter a word to rhyme against (enter to quit): feet
+Search for exact rhymes only? [y/n, default = y]: n
+105 rhymes found.
+AMIT, BACKSEAT, BEAT, BEET, BREIT, BRIDGETTE, BUFETE, CHAFETE, CHEAT, CLEAT, CLIETT, COMPETE, COMPLETE, CONCEIT, CONCRETE, CRETE, DECEIT, DEET, DEFEAT, DELETE, DEPLETE, DISCREET, DISCRETE, DOWNBEAT, EAT, EFFETE, ELITE, EXCRETE, FEAT, FEET, FLEET, FREET, GAMETE, GREET, GRETE, HEAT, INCOMPLETE, INDISCREET, JOBETE, KEITT, KRIETE, LALIT, LANETE, LEET, LEETE, LEITE, MARGUERITE, MARQUERITE, MEAT, MEET, METE, MISTREAT, MURVEIT, NEAT, NEET, NON-COMPETE, NONCOMPETE, OBSOLETE, OFFBEAT, PEAT, PEET, PEETE, PETE, PETITE, PIET, PIETTE, PLEAT, POTEAT, PRETE, PUNEET, QUIETT, RECEIPT, REPEAT, REPLETE, RETREAT, SEAT, SECRETE, SHEET, SHUMEET, SKEAT, SKEET, SKEETE, SLEET, ST., STREET, STREETT, SUITE, SWEATT, SWEET, SWETE, TEAT, TEET, THREATT, THREET, THWEATT, TREAT, TVEIT, TWEET, UNCOMPLETE, UNSEAT, VANFLEET, VANVLIET, VEIT, VLIET, WHEAT,
+
+Enter a word to rhyme against (enter to quit): groove
+Search for exact rhymes only? [y/n, default = y]: y
+10 rhymes found.
+DUVE, GROOVE, JUVE, MOVE, PROVE, STRUVE, STUEVE, STUVE, VEUVE, YOU'VE,
+
+Enter a word to rhyme against (enter to quit): groove
+Search for exact rhymes only? [y/n, default = y]: n
+16 rhymes found.
+APPROVE, BEHOOVE, DISAPPROVE, DISPROVE, DUVE, GROOVE, IMPROVE, JUVE, MOVE, PROVE, REMOVE, STRUVE, STUEVE, STUVE, VEUVE, YOU'VE,
+
+Enter a word to rhyme against (enter to quit): money
+Search for exact rhymes only? [y/n, default = y]: y
+15 rhymes found.
+BUNNEY, BUNNIE, BUNNY, FUNNY, GUNNY, HONEY, LUNNEY, LUNNY, MONEY, MUNNI, RUNNY, SONNY, SUNNY, TUNNEY, TUNNY,
+
+Enter a word to rhyme against (enter to quit): money
+Search for exact rhymes only? [y/n, default = y]: n
+15 rhymes found.
+BUNNEY, BUNNIE, BUNNY, FUNNY, GUNNY, HONEY, LUNNEY, LUNNY, MONEY, MUNNI, RUNNY, SONNY, SUNNY, TUNNEY, TUNNY,
+
+Enter a word to rhyme against (enter to quit): oats
+Search for exact rhymes only? [y/n, default = y]: y
+23 rhymes found.
+BLOATS, BOAT'S, BOATS, COAT'S, COATS, COTES, FLOATS, GLOATS, GOAT'S, GOATS, MOATS, MOTES, NOTE'S, NOTES, NOTES', OATES, OATS, PLOETZ, QUOTES, THROATS, TOTES, VOTE'S, VOTES,
+
+Enter a word to rhyme against (enter to quit): oats
+Search for exact rhymes only? [y/n, default = y]: n
+30 rhymes found.
+BLOATS, BOAT'S, BOATS, CAPOTE'S, COAT'S, COATS, CONNOTES, COTES, DENOTES, DEVOTES, FLOATS, GLOATS, GOAT'S, GOATS, MISQUOTES, MOATS, MOTES, NOTE'S, NOTES, NOTES', OATES, OATS, OUTVOTES, PLOETZ, PROMOTES, QUOTES, THROATS, TOTES, VOTE'S, VOTES,
+
+Enter a word to rhyme against (enter to quit): smudge
+Search for exact rhymes only? [y/n, default = y]: y
+11 rhymes found.
+BUDGE, DRUDGE, FUDGE, GRUDGE, JUDGE, MUDGE, NUDGE, RUDGE, SLUDGE, SMUDGE, TRUDGE,
+
+Enter a word to rhyme against (enter to quit): smudge
+Search for exact rhymes only? [y/n, default = y]: n
+15 rhymes found.
+ADJUDGE, BEGRUDGE, BUDGE, DRUDGE, FUDGE, GRUDGE, JUDGE, MISJUDGE, MUDGE, NUDGE, PREJUDGE, RUDGE, SLUDGE, SMUDGE, TRUDGE,
+
+Enter a word to rhyme against (enter to quit): zipping
+Search for exact rhymes only? [y/n, default = y]: y
+17 rhymes found.
+CHIPPING, CLIPPING, DIPPING, DRIPPING, FLIPPING, GRIPPING, NIPPING, RIPPING, SHIPPING, SIPPING, SKIPPING, SLIPPING, STRIPPING, TIPPING, TRIPPING, WHIPPING, ZIPPING,
+
+Enter a word to rhyme against (enter to quit): zipping
+Search for exact rhymes only? [y/n, default = y]: n
+19 rhymes found.
+CHIPPING, CLIPPING, DIPPING, DRIPPING, EQUIPPING, FLIPPING, GRIPPING, NIPPING, OUTSTRIPPING, RIPPING, SHIPPING, SIPPING, SKIPPING, SLIPPING, STRIPPING, TIPPING, TRIPPING, WHIPPING, ZIPPING,
